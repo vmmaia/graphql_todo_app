@@ -1,0 +1,4 @@
+.todoItem:hover {
+    background-color: #aaa;
+    cursor: pointer;
+}
